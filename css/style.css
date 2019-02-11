@@ -22,39 +22,3 @@ body {
 /* Write all remaining styles here */
 
 
-#bigpicture img {
-  border: 5px solid #9caba6;
-	width: 100%;
-}
-
-#about a {
-	color: rgb(0,119,184);
-	text-decoration: none;
-}
-
-#about a:hover {
-	text-decoration: underline;
-}
-
-footer {
-	text-align: right;
-	font-size: 75%;
-}
-
-#press img {
-	border: 3px solid rgb(194,196,197);
-	width: 24%;
-}
-
-#press img:hover {
-	border: 3px solid #000;
-}
-
-h1 {
-  color: #98ADA6;
-  font-size: 5em;
-  font-family: Baskerville, serif;
-  font-weight: 700;
-  padding: 10px 0;
-  margin: 0;
-}
