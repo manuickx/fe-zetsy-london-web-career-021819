@@ -13,7 +13,7 @@ body {
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
-	background: #9caba6;
+	background: #fff;
 	padding: 0 45px 20px;
 }
 
@@ -21,7 +21,7 @@ body {
 
 
 #bigpicture img {
-  border: 3px solid #eee;
+  border: 3px solid #fff;
 	width: 100%;
 }
 
