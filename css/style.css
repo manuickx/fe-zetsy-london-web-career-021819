@@ -10,26 +10,19 @@ body {
 	font-family: 'Baskerville', 'Times New Roman', serif; 
 }
 
-p { 
-  font-size: 1em;
-  line-height: 1.5em;
-}
-
-h1 {
-	color: rgb(143,163,158);
-	font: Baskerville, serif;
-}
-
-#bigpicture img {
-  border: 3px solid rgb(143,163,158);
-	width: 100%;
-}
-
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+/* Write all remaining styles here */
+
+
+#bigpicture img {
+  border: 3px solid rgb(143,163,158);
+	width: 100%;
 }
 
 #about a {
@@ -40,8 +33,6 @@ h1 {
 #about a:hover {
 	text-decoration: underline;
 }
-
-
 
 footer {
 	text-align: right;
@@ -56,5 +47,3 @@ section img {
 #press img:hover {
 	border: 3px solid #000;
 }
-
-/* Write all remaining styles here */
