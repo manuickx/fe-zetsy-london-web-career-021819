@@ -44,7 +44,6 @@ h1 {
 }
 
  a img {
-  transition: border 0.5s ease;
   border: 5px solid #CCC;
 }
 
